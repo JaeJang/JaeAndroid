@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">How much?</string>
+    <string name="krw">KRW&#160;&#160;&#160; ←</string>
+    <string name="error">ERROR</string>
+
+    <string-array name="currency_array1">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>USD</item>
+    </string-array>
+
+    <string-array name="currency_array2">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>USD</item>
+        <item>KRW</item>
+    </string-array>
+</resources>
